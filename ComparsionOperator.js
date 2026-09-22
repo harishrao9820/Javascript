@@ -2,7 +2,7 @@
 console.log("Equal to: 2 == 2 is", 2 == 2);
 
 // not equal operator
-console.log("Not equal to: 3 != 3 is", 3 != 3);
+console.log("Not equal to: 3 != 3 is",  3 != 3);
 
 // strictly equal to operator
 console.log("Strictly equal to: 2 === '2' is", 2 === '2');
