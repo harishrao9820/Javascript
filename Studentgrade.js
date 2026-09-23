@@ -8,7 +8,7 @@ F otherwise
 */
 
 let name= "Harish";
-let score=92;
+let score=35;
 
 if(score >= 90 ){
     console.log(`${name} got grade A`);
@@ -17,7 +17,10 @@ else if(score>=75){
     console.log(`${name} got grade B`);
 }
 else if(score>=50){
-    console.log(`${name}got grade C`);
+    console.log(`${name} got grade C`);
+}
+else{
+    console.log(`${name} got grade D`);
 }
 
 
