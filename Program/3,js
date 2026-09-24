@@ -1,0 +1,12 @@
+/*
+Write a program that checks if a number is divisible by 3 using the % operator.
+*/
+
+let n=27;
+
+if(n%3===0){
+    console.log(`${n} is divisible by 3`);
+}
+else{
+    console.log(`${n} is not divisble by 3`);
+}
